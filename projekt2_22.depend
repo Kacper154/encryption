@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1661708046 source:c:\users\kacper\desktop\pacjent\projekt2_22\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<conio.h>
+
